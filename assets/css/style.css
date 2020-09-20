@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
+h1 {
+	margin:0 auto
+}
 html {
     padding: 0;
     margin: 0 auto;
@@ -11,6 +14,10 @@ html {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
+}
+
+.container-lg{
+background-color: rgba(255,255,255,0.3);	
 }
 
 img {
