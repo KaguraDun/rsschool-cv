@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kaguradun.github.io/rsschool-cv/cv
