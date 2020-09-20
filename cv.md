@@ -1,4 +1,5 @@
 # Resume
+![Photo](/assets/img/photo.jpeg)
 1. **Name:** Vasily Kovnev
 1. **Contacts:**
     * [vk](https://vk.com/kaguradun)
@@ -20,5 +21,5 @@
       return x * 0.7 > charCodeSum ? "That was close!" : "Fire!";
     }
     ```
-1. **Education:** I took basic html and css courses on the platform [html academy] (https://htmlacademy.ru/) and now I'm studying at RS School courses.
+1. **Education:** I took basic html and css courses on the platform [html academy](https://htmlacademy.ru/) and now I'm studying at RS School courses.
 1. **English:** I studied English at university and roughly rated it as A2 Pre-Intermediate
